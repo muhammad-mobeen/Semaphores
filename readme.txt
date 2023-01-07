@@ -7,11 +7,12 @@ GitHub Repo URL: https://github.com/muhammad-mobeen/Semaphores
 
 Includes:-
 
-Task 1:-
-    threads.py
-    race_condition.py
-    semaphore.py
-    mutex_lock.py
+Task 1:-  (Outputs)
+    threads.png
+    race_condition.png
+    semaphore.png
+    mutex_lock.png
 
 Task 2:-
-    multi_sync.py
+    task2.py
+    task2.png (Output)
